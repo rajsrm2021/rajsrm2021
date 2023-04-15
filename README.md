@@ -20,7 +20,6 @@
 - 📄 Know about my experiences [https://rajsrm2021.github.io/resume/](https://rajsrm2021.github.io/resume/)
 
 - ⚡ Fun fact **I think I am funny**
-<h3 align="left">Badges:</h3>
 [![An image of @rajsrm2021's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajsrm2021)](https://holopin.io/@rajsrm2021)
 
 <h3 align="left">Connect with me:</h3>
