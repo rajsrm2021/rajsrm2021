@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+[![An image of @rajsrm2021's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajsrm2021)](https://holopin.io/@rajsrm2021)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajkalwar2060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkalwar2060" height="30" width="40" /></a>
