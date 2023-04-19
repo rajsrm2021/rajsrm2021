@@ -1,4 +1,13 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<hr>
+
+<h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08CA40&width=435&lines=Welcome+to+Raj+Jaiswal+GitHub+profile" alt="Typing SVG" /></a></p>
+
+<p align="center">
+<img src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Raj Kumar Jaiswal</h1>
 <h3 align="center">I wish to create an impact in the field of computer sciences via developing a set of technology-oriented skills.</h3>
 
