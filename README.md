@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **JAVA Language and DSA**
 
-- 📝 I regularly write articles on [https://portfolio-ten-fawn-59.vercel.app/](https://portfolio-ten-fawn-59.vercel.app/)
+- 📝 I regularly write articles on [https://portfolio-rajjaiswal.vercel.app/](https://portfolio-rajjaiswal.vercel.app/)
 
 - 💬 Ask me about **JAVA\C\C++,HTML,CSS,JS**
 
