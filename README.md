@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **JAVA Language and DSA**
 
-- 📝 I regularly write articles on [https://rajsrm2021.github.io/personalwebpage/](https://rajsrm2021.github.io/personalwebpage/)
+- 📝 I regularly write articles on [https://netflix-rajjaiswal.vercel.app](https://netflix-rajjaiswal.vercel.app)
 
 - 💬 Ask me about **JAVA\C\C++,HTML,CSS,JS**
 
