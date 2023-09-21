@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **JAVA Language and DSA**
 
-- 📝 My personal portfolio: [https://portfolio-rajjaiswal.vercel.app/](https://raj-portfolio-eta.vercel.app/)
+- 📝 My personal portfolio: [https://raj-portfolio-eta.vercel.app/](https://raj-portfolio-eta.vercel.app/)
 
 - 💬 Ask me about **JAVA,JS,React,NextJS,MongoDB,Express,NodeJS**
 
