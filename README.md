@@ -20,13 +20,13 @@
 
 - 🌱 I’m currently learning **JAVA Language and DSA**
 
-- 📝 I regularly write articles on [https://portfolio-rajjaiswal.vercel.app/](https://raj-portfolio-eta.vercel.app/)
+- 📝 My personal portfolio: [https://portfolio-rajjaiswal.vercel.app/](https://raj-portfolio-eta.vercel.app/)
 
-- 💬 Ask me about **JAVA\C\C++,HTML,CSS,JS**
+- 💬 Ask me about **JAVA,JS,React,NextJS,MongoDB,Express,NodeJS**
 
 - 📫 How to reach me **rj9769@srmist.edu.in**
 
-- 📄 Know about my experiences [https://rajsrm2021.github.io/resume/](https://rajsrm2021.github.io/resume/)
+- 📄 My Majorr project was on E-Learning Web-App it is live on: [https://e-learning-frontend-virid.vercel.app/](https://e-learning-frontend-virid.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny**
 <h3 align="left">Badges</h3>
