@@ -18,15 +18,16 @@
 
 <p align="left"> <a href="https://twitter.com/rajkalwar2060" target="blank"><img src="https://img.shields.io/twitter/follow/rajkalwar2060?logo=twitter&style=for-the-badge" alt="rajkalwar2060" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA Language and DSA**
+- 🌱 I’m currently learning **JAVA DEVELOPMENT,DSA AND AI/ML**
 
 - 📝 My personal portfolio: [https://raj-portfolio-eta.vercel.app/](https://raj-portfolio-eta.vercel.app/)
 
-- 💬 Ask me about **JAVA,JS,React,NextJS,MongoDB,Express,NodeJS**
+- 💬 Ask me about **JAVA,AI/ML,JS,React,NextJS,MongoDB,Express,NodeJS**
 
 - 📫 How to reach me **rj9769@srmist.edu.in**
 
-- 📄 My Majorr project was on E-Learning Web-App it is live on: [https://e-learning-frontend-virid.vercel.app/](https://e-learning-frontend-virid.vercel.app/)
+- 📄 My Major project was on E-Learning Web-App it is live on: [E-Learning Webapp](https://e-learning-frontend-virid.vercel.app/)
+
 
 - ⚡ Fun fact **I think I am funny**
 <h3 align="left">Badges</h3>
