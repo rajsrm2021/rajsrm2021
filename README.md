@@ -54,5 +54,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsrm2021&" alt="rajsrm2021" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/raj2060?theme=unicorn&font=Annie%20Use%20Your%20Telescope&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/raj2060?theme=dark&font=Annie%20Use%20Your%20Telescope&ext=heatmap)
 
