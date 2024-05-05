@@ -53,3 +53,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajsrm2021&show_icons=true&locale=en" alt="rajsrm2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsrm2021&" alt="rajsrm2021" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/raj2060?theme=unicorn&font=Annie%20Use%20Your%20Telescope&ext=heatmap)
+
